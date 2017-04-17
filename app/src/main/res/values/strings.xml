@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ritmo</string>
+    <string name="view_login_correo">Correo</string>
+    <string name="view_login_password">Password</string>
+    <string name="view_login_entrar">Viajar</string>
+    <string name="view_login_crearcuenta">Nacer</string>
+</resources>
